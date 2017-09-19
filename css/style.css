@@ -1,0 +1,180 @@
+
+	body {
+		margin: 0px;
+		padding: 0px;
+		font-family: 'Poppins', sans-serif;
+		font-size: 12pt;
+		font-weight: 400;
+		color: #000000;
+		text-decoration: none;
+	}
+
+#foto1{
+	height: 300px;
+}
+ 
+#menu ul {
+		background-color: #f9f9f9;
+		height: 30px;
+		font-size: 18px;
+		width: 100%;
+		font-family: 'Poppins', sans-serif;
+		text-align: center;
+		word-spacing: 50px;
+		text-decoration: none;
+		padding-top: 10px;
+		font-weight: bold;
+
+		
+	}
+	
+	#menu li {
+		display: inline-block;
+		
+	}
+	
+	#menu li a, #menu li span {
+		color: black;
+		text-decoration: none;
+
+	}
+
+
+	#three-column {
+		margin: auto;
+		margin-left: 100px;
+		padding: 20px;
+		height: 500px;
+
+	}
+	
+	#three-column h2 {
+		text-align: center;
+		padding: 10px;
+		font-weight: bold;
+		font-size: 22px;
+		color: black;
+
+	}
+		
+	#three-column #tbox1, #three-column #tbox2, #three-column #tbox3 {
+		width: 300px;
+		float: left;
+		padding: 18px;
+		text-align: justify;
+
+
+	}
+	
+	#three-column .title {
+
+
+	}
+	
+	#three-column .title h2 {
+
+
+
+	}
+
+	#three-column img {
+		width: 300px;
+	}
+
+	p{
+		font-family: 'PT Serif', serif;
+		color: #3e3e3e;
+		word-spacing: 5px;
+		line-height: 18px;
+
+
+	}
+
+	.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #00a798;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 15px;
+
+}
+
+#bnr2{
+	width: 1000px;
+	margin-left: 120px;
+	margin-top: 40px;
+}
+
+.textoabajo{
+	width: 600px;
+	text-align: justify;
+	margin-left: 80px;
+	padding: 50px;
+	float: left;
+	word-spacing: 5px;
+	line-height: 18px;
+}
+
+	.button2 {
+	float: left;
+    width: 200px;
+    height: 50px;
+    background: #00a798;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 60px;
+    padding-top: 30px;
+
+}
+
+#copyright {
+	height: 150px;
+	background-color: #dedede;
+	margin-top: 200px;
+
+
+	}
+	
+	#copyright p {
+	margin-top: 5px;
+	float: right;
+	margin-right: 550px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+
+	}
+
+form{
+	padding: 35px;
+	text-align: center;
+	margin-right: 40px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
+
+}
+
+.boton3{
+    width: 80px;
+    height: 25px;
+    background: #00a798;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
